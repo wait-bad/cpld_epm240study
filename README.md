@@ -1,0 +1,2 @@
+# cpld_epm240study
+用于记录和学习epm240t100c5n这款cpld学习中的知识点和代码
